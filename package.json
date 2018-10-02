@@ -1,0 +1,29 @@
+{
+  "name": "ceterisparibusd3-js",
+  "version": "1.0.0",
+  "description": "JS library for interactive, D3 based plots for XAI method implemented in R package called ceterisParibus.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaminka/ceterisparibusd3-js.git"
+  },
+  "keywords": [
+    "ceterisParibus",
+    "D3",
+    "XAI",
+    "IML",
+    "visualisation"
+  ],
+  "author": "Ewa Baranowska <ewa.baranowska4@wp.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flaminka/ceterisparibusd3-js/issues"
+  },
+  "homepage": "https://github.com/flaminka/ceterisparibusd3-js#readme",
+  "dependencies": {
+    "d3": "5.7.0"
+  }
+}
